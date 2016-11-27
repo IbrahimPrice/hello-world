@@ -1,2 +1,2 @@
 # hello-world
-Lighting a match, just keeping it lit.
+Light the world, & keep it lit.
